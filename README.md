@@ -1,9 +1,4 @@
-# LuckyStarter
- Laravel + Bootstrap for admin with roles and permissions, admin panel setup with Tabler and separate views for Admin and Frontend.
 
-![image-1](https://user-images.githubusercontent.com/11158157/74981567-cba66880-5432-11ea-9402-38e39252fb0c.png)
-
-![image-2](https://user-images.githubusercontent.com/11158157/74981365-68b4d180-5432-11ea-83f7-7f317cad02b6.png)
 
 
 
